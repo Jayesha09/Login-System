@@ -30,7 +30,7 @@ class _LoginPageState extends State<LoginPage> {
     catch (e) {
       if (mounted) {
         ScaffoldMessenger.of(context)
-            .showSnackBar(SnackBar(content: Text("Error:$e")));
+            .showSnackBar(const SnackBar(content: Text("Invalid Credentials")));
       }
     }
   }
