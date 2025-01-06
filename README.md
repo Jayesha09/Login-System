@@ -1,6 +1,13 @@
-# supabase_auth
+A super simple login and sign-up system using the amazing and user-friendly **Supabase Platform**. This project demonstrates the implementation of authentication features, making it a great starting point for developers exploring Supabase.
 
-A super simple login and sign up system using this amazing user-friendly Supabase Platform. This project demonstrates the implementation of authentication features, making it a great starting point for developers exploring Supabase.
+## Features
+- User registration and login with Supabase
+- Secure and scalable authentication
+- Foundation for further development in Flutter projects
+
+## Screenshot
+
+
 
 ## Getting Started
 
